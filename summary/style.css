@@ -3,12 +3,16 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap'); */
 /*@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
 * {
     transition: all 0.5s cubic-bezier(.68,-0.55,.27,1.55) 0s;
 }
 body {
     background-color: rgb(253, 253, 253);
     color: brown;
+    font-family: 'Kalam', cursive;
+    /*Kalam will be the font for all text as long as they don't have a seperate font declaration in their own class.*/
 }
 navbar {
     margin-bottom: 2vw;
