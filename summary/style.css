@@ -59,7 +59,7 @@ navbar ul li:hover {
     color: #b17804;
 }
 .content h5 {
-    font-size: 2.2vw;
+    font-size: 30px;
     font-family: cursive;
     color: #b17804;
 }
@@ -69,17 +69,17 @@ navbar ul li:hover {
     color: #b17804;
 }
 .content p {
-    font-size: 2vw;
+    font-size: 20px;
     font-family: 'Charm', cursive;
     /* font-family: 'Abel', sans-serif; */
 }
 .content pre {
-    font-size: 2vw;
+    font-size: 14px;
     font-family: 'Charm', cursive;
     /* font-family: 'Abel', sans-serif; */
 }
 .content ul li {
-    font-size: 2vw;
+    font-size: 170x;
     font-family: 'Charm', cursive;
     /* font-family: 'Abel', sans-serif; */
 }
