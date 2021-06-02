@@ -56,14 +56,17 @@ navbar ul li:hover {
 .content h1 {
     font-size: 3vw;
     font-family: cursive;
+    color: #b17804;
 }
 .content h5 {
     font-size: 2.2vw;
     font-family: cursive;
+    color: #b17804;
 }
 .content h6 {
     font-size: 2vw;
     font-family: cursive;
+    color: #b17804;
 }
 .content p {
     font-size: 2vw;
