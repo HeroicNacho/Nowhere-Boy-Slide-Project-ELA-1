@@ -74,16 +74,16 @@ navbar ul li:hover {
 }
 .content p {
     font-size: 20px;
-    font-family: 'Charm', cursive;
+    /*font-family: 'Charm', cursive;*/
     /* font-family: 'Abel', sans-serif; */
 }
 .content pre {
     font-size: 20px;
-    font-family: 'Charm', cursive;
+    /*font-family: 'Charm', cursive;*/
     /* font-family: 'Abel', sans-serif; */
 }
 .content ul li {
     font-size: 25px;
-    font-family: 'Charm', cursive;
+    /*font-family: 'Charm', cursive;*/
     /* font-family: 'Abel', sans-serif; */
 }
