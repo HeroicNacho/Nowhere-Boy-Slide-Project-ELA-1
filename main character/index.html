@@ -25,11 +25,13 @@
           <li onclick='Ahmed();'>Ahmed</li>
           <li onclick='Max();'>Max</li>
       </ul>
+      <p id='ahmed'></p>
       <script>
         function Ahmed() {
-          alertt("Loading...");
+          alert("Loading...");
           //using jQuery
-          var text = "Ahmed is a 14-year old refugee that supposedly loses his father and ends up in Brussels, France. Ahmed is kind and";
+          var text = "Ahmed is a 14-year old refugee that supposedly loses his father and ends up in Brussels, France. Ahmed is kind and when he takes shelter in Max's house, \n he resolves to steal only what he really needs, and almost as if in payment, he tends very well to the garden.";
+          $("#ahmed").text(text);
         }
       </script>
   </div>
